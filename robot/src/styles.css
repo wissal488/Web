@@ -1,0 +1,38 @@
+body  {
+  background-color: #1e1e1e;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 14px;
+}
+.desc {
+  padding-top: 12px;
+  margin-bottom: 15px;
+  margin-top: 12px;
+  color: bisque;
+  
+}
+h1{
+  color: azure;
+  font-size: 16px;
+}
+.Header {
+  border-radius: 10px 10px 10px 10px;
+  height: 50%;
+  margin: 15px 15px 15px 15px;
+  background-color: gray;
+}
+.form-control {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  width: 50%;
+}
+button {
+  margin-block-end: 12px;
+  
+}
+.input-search {
+  margin-top: 12px;
+  padding-top: 12px;
+}
